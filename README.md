@@ -6,6 +6,6 @@
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elysiamobi)
 
-- 正在学习前端技术的
+- 正在学习前端技术
 
  - used for study
